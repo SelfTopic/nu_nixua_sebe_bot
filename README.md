@@ -1,0 +1,1 @@
+# Телеграм бот для личного клана в Counter Strike Source
